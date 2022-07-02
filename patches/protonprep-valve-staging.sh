@@ -320,6 +320,9 @@
 
     echo "WINE: -GAME FIXES- add powerprof patches for FFVII Remake and SpecialK"
     patch -Np1 < ../patches/game-patches/FFVII-and-SpecialK-powerprof.patch
+    
+    echo "WINE: -GAME FIXES- fix PSO2 filecase errors"
+    patch -Np1 < ../patches/game-patches/pso2_case_hack.patch
 
 ### END GAME PATCH SECTION ###
 
