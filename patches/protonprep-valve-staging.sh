@@ -306,6 +306,9 @@
     echo "WINE: -GAME FIXES- add powerprof patches for FFVII Remake and SpecialK"
     patch -Np1 < ../patches/game-patches/FFVII-and-SpecialK-powerprof.patch
 
+    echo "WINE: -GAME FIXES- add Phantasy Star Online 2 filename case hack"
+    patch -Np1 < ../patches/game-patches/pso2-case-hack.patch
+
 ### END GAME PATCH SECTION ###
 
 ### (2-4) PROTON PATCH SECTION ###
