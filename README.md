@@ -1,3 +1,6 @@
+# Proton-ge7.29 now has PSO2 patched in its upstream. I suggest everyone use that instead. I'm happy that I was able to help all by providing this small forked build until it was no longer required!
+you can find the latest official releases of Proton-ge here https://github.com/GloriousEggroll/proton-ge-custom
+
 # proton-ge-custom
 
 ## (1) RUNNING NON-STEAM GAMES WITH PROTON OUTSIDE OF STEAM IS NOT SUPPORTED. DO NOT ASK FOR HELP WITH THIS:
